@@ -1,0 +1,2 @@
+# SMART-QWIRKLE
+AI project
