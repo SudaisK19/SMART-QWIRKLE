@@ -68,7 +68,7 @@ Smart Qwirkle is an enhanced version of the classic Qwirkle board game, featurin
 Run the main game script:
 
 ```bash
-python main.py
+python game.py
 ```
 
 Follow the on‑screen prompts to select game mode (Human vs. Human, Human vs. AI) and AI difficulty.
