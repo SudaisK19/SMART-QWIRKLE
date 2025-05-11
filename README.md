@@ -86,6 +86,9 @@ A detailed project report is available here:
 ## Demo Video
 
 A video demonstration of Smart Qwirkle :
+
+Click on the picture to view demo
+
 [![Demo Video](demo-thumbnail.jpg)](https://drive.google.com/file/d/1IhvTUxMPzMtUf0WNK3EInFggPvalyX9R/view?usp=sharing)
 
 
