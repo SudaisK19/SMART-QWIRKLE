@@ -71,7 +71,7 @@ Run the main game script:
 python game.py
 ```
 
-Follow the on‑screen prompts to select game mode (Human vs. Human, Human vs. AI) and AI difficulty.
+Follow the on‑screen prompts to select game mode (Human vs. AI) and AI difficulty.
 
 ---
 
@@ -86,6 +86,8 @@ A detailed project report is available here:
 ## Demo Video
 
 A video demonstration of Smart Qwirkle :
+[![Demo Video](demo-thumbnail.jpg)](https://drive.google.com/file/d/1IhvTUxMPzMtUf0WNK3EInFggPvalyX9R/view?usp=sharing)
+
 
 ---
 
